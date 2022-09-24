@@ -4,6 +4,10 @@
 
 #ifndef SORTING_ALGOTITHMS_MYSORTING_H
 #define SORTING_ALGOTITHMS_MYSORTING_H
+
+#include <cstdio>
+#include <climits>
+#include <algorithm>
 #include <vector>
 
 enum SortType {Merge, Bubble, Select, Quick, Counting};

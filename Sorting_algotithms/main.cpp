@@ -3,8 +3,8 @@
 #include "MySorting.h"
 
 int main() {
-    std::vector<int> input;
-    for(int i = 100; i>=0; --i)
+    std::vector<float> input;
+    for(int i = 10000; i>=0; --i)
     {
         input.push_back(i);
     }
